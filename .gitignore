@@ -1,3 +1,7 @@
 mounted_datasets/
 workspace/aei_with_mmtrack/mmyolo/checkpoint/*.pth
 /*.pth
+*.pth
+*.pt
+*.log
+*.ckpt
